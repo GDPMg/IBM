@@ -1,0 +1,1 @@
+Nesse projeto com a IBM, desenvolvemos um website de rotas de ônibus, tendo os deficientes físicos como público-alvo principal. Em nosso site, apresentamos as possíveis rotas a serem tomadas com os ônibus, mas também implementamos um filtro para exibir apenas as opções de transporte acessíveis aos deficientes físicos. 
